@@ -7,7 +7,7 @@
 
 ## 🌟 Overview
 
-The **Mental Health AI Agent** is an open-source, LLM-powered conversational system designed to provide **empathetic support**, **emotion recognition**, and **crisis-aware responses** using modern AI techniques such as **Retrieval-Augmented Generation (RAG)** and **Vector Databases (Milvus)**.
+The **Mental Health AI Agent** is an open-source, LLM-powered conversational system designed to provide **empathetic support**, **emotion recognition**, and **crisis-aware responses** using modern AI techniques such as **Retrieval-Augmented Generation (RAG)** and **Vector Databases**.
 
 The agent is capable of understanding emotional context, detecting mental health risks, retrieving relevant coping strategies, and routing conversations to specialized sub-agents when required.
 
@@ -22,7 +22,7 @@ This project aims to serve as a **research-grade MVP** that can be deployed usin
 
 ### 🧩 Core Capabilities
 - **Emotion Recognition**
-  - Detects emotions (e.g., anxiety, sadness, anger, fear, hopelessness)
+  - Detects emotions (e.g., anxiety, sadness, anger, fear, hopelessness, etc.)
   - Uses transformer-based emotion classification models
 
 - **Empathetic & Supportive Conversations**
@@ -31,7 +31,7 @@ This project aims to serve as a **research-grade MVP** that can be deployed usin
   - Non-judgmental and human-centered dialogue
 
 - **Crisis Detection & Safety Layer**
-  - Identifies high-risk mental states (e.g., self-harm, suicidal ideation)
+  - Identifies high-risk mental states (e.g., self-harm, suicidal ideation, etc.)
   - Provides immediate crisis resources and emergency guidance
   - Safe-completion and escalation rules
 
@@ -77,14 +77,14 @@ This project aims to serve as a **research-grade MVP** that can be deployed usin
 - Jupyter Notebook / Google Colab
 - Pandas & NumPy
 
-### Deployment (Optional)
+### Deployment 
 - Hugging Face Spaces
 - Docker
 - FastAPI / Streamlit
 
 ---
 
-## 📚 Datasets Used
+## 📚 Datasets (Optional)
 
 - **EmpatheticDialogues**
 - **GoEmotions**
@@ -92,11 +92,11 @@ This project aims to serve as a **research-grade MVP** that can be deployed usin
 - **Custom Crisis & Therapy-Style Conversations**
 - **Synthetic Emotion-Annotated Dialogues**
 
-> All datasets are used for **research and educational purposes only**.
+> All datasets will be used for **research and educational purposes only**.
 
 ---
 
-## 🧪 Notebooks & Modules
+## 🧪 Notebooks & Modules (development - on-going)
 
 | Module | Description |
 |------|------------|
