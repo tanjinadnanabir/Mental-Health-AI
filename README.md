@@ -15,6 +15,9 @@ This project aims to serve as a **research-grade MVP** that can be deployed usin
 
 ---
 
+## 🚀 Project Proposal
+  - https://docs.google.com/document/d/1ymitrjJulfX0mm4ukfDilsCps5i-PgpT/edit
+
 ## 🚀 Key Features
 
 ### 🧩 Core Capabilities
@@ -53,23 +56,6 @@ This project aims to serve as a **research-grade MVP** that can be deployed usin
 ## 🏗️ System Architecture
 
 <img width="271" height="430" alt="image" src="https://github.com/user-attachments/assets/18851154-43d7-43a4-abac-ab5795f2bbe1" />
-
-
-User Input
-↓
-Emotion Detection Model
-↓
-Crisis Detection Layer
-↓
-Agent Router
-↓
-RAG Pipeline (Milvus Vector DB)
-↓
-LLM-Based Empathetic Response
-↓
-Safety Filter & Resource Injection
-↓
-User Response
 
 ---
 
