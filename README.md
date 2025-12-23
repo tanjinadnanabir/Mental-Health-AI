@@ -1,5 +1,3 @@
-# Mental-Health-AI
-
 # 🧠 Mental Health AI Agent  
 **An Empathetic, Intelligent, and Privacy-First Mental Health Support System**
 
@@ -144,39 +142,25 @@ Or deploy via API / UI (optional).
 
 🔐 Ethics, Safety & Privacy
 No personal data storage without consent
-
 No diagnosis or medical advice
-
 Crisis scenarios always trigger:
-
 Emergency disclaimers
-
 Local & global helpline suggestions
-
 Designed with AI safety and human well-being in mind
 
 🧩 Future Enhancements
 Voice-based emotion recognition
-
 Multilingual support (including Bengali 🇧🇩)
-
 Therapist-in-the-loop feedback
-
 Reinforcement Learning with Human Feedback (RLHF)
-
 Wearable & EEG data integration (research)
 
 🤝 Contributions
 Contributions are welcome!
-
 Feature requests
-
 Dataset improvements
-
 Model optimization
-
 UI/UX enhancements
-
 Ethical review & safety improvements
 
 Please open an issue or submit a pull request.
@@ -187,10 +171,9 @@ This project is licensed under the MIT License.
 📬 Contact
 Author: Tanjin Adnan Abir
 Focus Areas: AI, NLP, Mental Health, RAG, Vector Databases
+GitHub: https://github.com/tanjinadnanabir
 
-GitHub: your-github-profile
-
-Email: your-email
+Email: tanjinadnanabir@gmail.com
 
 🌱 Final Note
 “AI should not replace human care—but it can help people feel less alone.”
