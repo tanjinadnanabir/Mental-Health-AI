@@ -111,8 +111,8 @@ This project aims to serve as a **research-grade MVP** that can be deployed usin
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/mental-health-ai-agent.git
-cd mental-health-ai-agent
+git clone https://github.com/tanjinadnanabir/mental-health-ai.git
+cd mental-health-ai
 pip install -r requirements.txt
 Milvus (Docker)
 bash
