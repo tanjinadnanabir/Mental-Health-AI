@@ -1,0 +1,49 @@
+input,emotion
+I've been feeling mentally exhausted for months and nothing I try seems to help. Every day feels like a battle just to get through simple tasks, and I don’t know how long I can keep going like this.,sadness
+My thoughts race constantly and I can’t calm my mind. Even when I rest, I feel tense and uneasy, as if something bad is about to happen.,fear
+I feel frustrated with myself because I know I should be doing better, yet I feel stuck in the same place emotionally and mentally.,anger
+I’ve tried staying positive and distracting myself, but deep down I feel empty and disconnected from everything around me.,sadness
+Sometimes I feel overwhelmed by emotions I can’t explain, and it scares me how out of control my mind feels.,fear
+I feel angry that I have to struggle so much while others seem to move forward easily in life.,anger
+Despite everything, I feel a small sense of hope that things might improve someday,joy
+I feel lost and unsure about who I am anymore, and it makes me feel deeply sad.,sadness
+My emotions change rapidly and I feel mentally drained trying to keep up with them.,sadness
+I feel anxious whenever I think about the future, and it keeps me awake at night.,fear
+I feel emotionally supported when someone listens to me without judging,love
+I’m exhausted from constantly trying to fix myself and not seeing results,sadness
+I feel frustrated that my efforts don’t seem to make a difference,anger
+My mind feels like a storm of thoughts and worries that never stop,fear
+I feel calm only for brief moments before everything feels heavy again,sadness
+I feel grateful for the people who try to understand what I’m going through,love
+I feel emotionally numb and detached, like I’m just existing,neutral
+It surprises me how deeply these emotions affect my daily life,surprise
+I feel scared of losing control over my emotions,fear
+I feel angry when I think about how long I’ve been struggling,anger
+I feel hopeless because nothing I try seems to work,sadness
+I feel loved when someone reassures me that I’m not alone,love
+My thoughts are overwhelming and I can’t organize them clearly,fear
+I feel disappointed in myself for not being stronger,anger
+Sometimes I feel okay, but most of the time I feel emotionally heavy,sadness
+I didn’t expect my mental health to affect me this deeply,surprise
+I feel mentally tired but emotionally stable today,neutral
+I feel anxious talking about my problems because I fear being misunderstood,fear
+I feel frustrated when my emotions interfere with my work and focus,anger
+I feel peaceful for a short while after reflecting on my progress,joy
+I feel confused by my own emotions and reactions,neutral
+I feel sad knowing that I’m not the person I used to be,sadness
+I feel scared that this mental state might never change,fear
+I feel warmth and comfort when I receive emotional support,love
+I feel irritated with myself for not coping better,anger
+I feel emotionally drained and unmotivated,sadness
+I feel surprised when I realize how strong emotions can be,surprise
+I feel anxious even when there’s no clear reason,fear
+I feel cared for when someone checks in on my well-being,love
+I feel frustrated by the constant mental struggle,anger
+I feel empty despite trying to stay busy,sadness
+I feel hopeful during moments of clarity,joy
+I feel mentally neutral today, neither good nor bad,neutral
+I feel shocked by how suddenly my emotions overwhelm me,surprise
+I feel afraid of confronting my deeper feelings,fear
+I feel emotionally connected when I share my struggles,love
+I feel angry that healing feels so slow,anger
+I feel lost inside my own thoughts,sadness
