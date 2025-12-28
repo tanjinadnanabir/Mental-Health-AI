@@ -18,6 +18,9 @@ This project aims to serve as a **research-grade MVP** that can be deployed usin
 ## 🚀 Project Proposal
   - https://docs.google.com/document/d/1ymitrjJulfX0mm4ukfDilsCps5i-PgpT/edit
 
+## 🚀 Demo 
+  - https://huggingface.co/spaces/tanjinadnanabir/mental-health-ai-1.0
+
 ## 🚀 Key Features
 
 ### 🧩 Core Capabilities
